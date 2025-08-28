@@ -10,11 +10,6 @@ A secure crypto payment system that allows users to pay rent or make deposits us
 
 ![alt text](public/marketplace.png)
 
-### 🔥 Web3 is not a temporary trend - it is the future of the Internet!
-
-#### 🚀 Are you ready to enter the Web3 Era? Let's explore a decentralized world today!
-
-
 ### Install dependencies
 
 ```
