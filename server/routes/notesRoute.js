@@ -1,13 +1,13 @@
 const express = require('express');
 
 // import functions for handling notes
-// const { 
-//     createNote, 
-//     getAllNotes, 
-//     getNoteById, 
-//     updateNote, 
-//     deleteNote 
-// }
+const { 
+    createNote, 
+    getAllNotes, 
+    getNoteById, 
+    updateNote, 
+    deleteNote 
+} = require('../controllers/notesController');
 
 
 const router = express.Router();
