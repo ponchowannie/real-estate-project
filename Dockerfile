@@ -16,4 +16,4 @@ COPY . .
 EXPOSE 4001
 
 # Start the server
-CMD ["node", "demo/notes-server.js"]
+CMD ["node", "server/server.js"]
